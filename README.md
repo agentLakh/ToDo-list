@@ -14,8 +14,9 @@ CSS
 JavaScript
 Aperçu
 
-NB : Concernant le design certaines fonctionnalites ont été recuperer des projets open sources notamment danss le CSS et certaines fonctionnalites du JS ou ssur des templates
+NB : Concernant le design certaines fonctionnalites ont été recuperer des projets open sources notamment dans le CSS et certaines fonctionnalites du JS ou sur des templates
 
 Auteur
-Développé avec ❤️ par Votre Nom.
+
+Développé avec ❤️ par Mouhamadou Mamoune Mbacke.
 
